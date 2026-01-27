@@ -2,7 +2,7 @@
 
 # 🍄 Neha Chaudhari
 
-### Full-Stack Developer 
+### Software Engineer - AI and Automation
 
 > *Crafting web with AI Adaptation*  
 
