@@ -6,7 +6,7 @@
 
 > *Crafting web with AI Adaptation*  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neha-c.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nehac.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nebullii)
 
 ---
