@@ -25,10 +25,10 @@
 
 ## 🛠️ Current Focus
 ```diff
-+ Architecting Agentic RAG workflows using MCP (Model Context Protocol) and LangChain
-+ Scaling distributed Ruby on Rails systems with PostgreSQL optimization (50k+ MAU)
-+ Bridging AI adaptation with production-grade DX: CI/CD and automated testing
-+ Building autonomous code-review agents with FastAPI and PgVector
++ Engineering Autonomous Cognitive Architectures with Multi-Agent Orchestration
++ Scaling Self-Healing Distributed Systems & Adaptive Infrastructure
++ Implementing Neural-Symbolic Reasoning for automated code synthesis and verification
++ Developing Cross-Platform Autonomous Agents using Advanced Vector Orchestration
 + Finishing MSCS @ Clark University (Dec 2025)
 
 Built with ❤️ and a 1-UP mushroom
