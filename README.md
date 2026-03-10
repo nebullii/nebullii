@@ -29,7 +29,7 @@ AI-powered code review platform that analyzes repositories and generates automat
 ### [Forge](https://github.com/nebullii/forge)
 Multi-agent project generation platform designed to accelerate software prototyping and development.
 
-###[Anchor](https://github.com/nebullii/anchor)
+### [Anchor](https://github.com/nebullii/anchor)
 AI agent that scans any project and deploys it to Google Cloud Run
 
 ### [Relay](https://github.com/nebullii/relay)
