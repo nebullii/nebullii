@@ -23,7 +23,7 @@ I build backend systems using **Python** and **Ruby on Rails** with a focus on p
 
 ## 🚀 Featured Projects
 
-### [CodeSentry](https://github.com/nebullii/aicode-review-assistant)
+### [CodeSentry](https://github.com/aicodesentry/codesentry)
 AI-powered code review platform that analyzes repositories and generates automated feedback using LLM workflows.
 
 ### [Forge](https://github.com/nebullii/forge)
