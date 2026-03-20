@@ -30,7 +30,7 @@ AI-powered code review platform that analyzes repositories and generates automat
 Multi-agent project generation platform designed to accelerate software prototyping and development.
 
 ### [Anchor](https://github.com/nebullii/anchor)
-AI agent that scans any project and deploys it to Google Cloud Run
+AI agent that scans any project and deploys it to the Cloud
 
 ### [Relay](https://github.com/nebullii/relay)
 Infrastructure tooling for structured LLM workflows and developer automation pipelines.
