@@ -1,45 +1,92 @@
-# 🍄 Neha Chaudhari
+# Hi, I'm Neha 👋
 
-**Backend Engineer** specializing in scalable APIs, distributed systems, and AI-powered developer tools.
+Backend Engineer building **autonomous AI systems for software development**
+
+---
+
+## 🚀 What I'm Building
+
+I’m currently focused on **Autonomous Development Systems** — software that can:
+
+→ Take an idea  
+→ Design the system  
+→ Generate code  
+→ Review quality  
+→ Deploy to production  
+
+All through coordinated AI agents.
 
 ---
 
-## 🛠️ About
+## 🧠 Core Projects
 
-I build backend systems using **Python** and **Ruby on Rails** with a focus on performance, reliability, and automation. My work includes designing REST APIs, optimizing database performance, integrating third-party services, and building AI-driven developer tooling.
+### ⚙️ Forge — Autonomous Development System
+Multi-agent system that turns ideas into working applications.
 
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-
-## 🚀 Featured Projects
-
-### [CodeSentry](https://github.com/aicodesentry/codesentry)
-AI-powered code review platform that analyzes repositories and generates automated feedback using LLM workflows.
-
-### [Forge](https://github.com/nebullii/forge)
-Multi-agent project generation platform designed to accelerate software prototyping and development.
-
-### [Anchor](https://github.com/nebullii/anchor)
-AI agent that scans any project and deploys it to the Cloud
-
-### [Relay](https://github.com/nebullii/relay)
-Infrastructure tooling for structured LLM workflows and developer automation pipelines.
-
-## 🔗 Links
-
-* **[Portfolio](https://nehac.netlify.app)**
-* **[LinkedIn](https://www.linkedin.com/in/nehavchaudhari)**
-* **[GitHub](https://github.com/nebullii)**
+- Project Manager agent → breaks down tasks  
+- Backend / Frontend / API agents → build components  
+- Designed for transparency + structured execution  
 
 ---
-*Built with ❤️ and a focus on scalable systems.*
+
+### 🔍 CodeSentry — AI Code Review
+LLM-powered system for automated code analysis.
+
+- OWASP-aligned security checks  
+- Multi-file repo analysis  
+- Built with FastAPI + LLM pipelines  
+
+---
+
+### 🚀 Anchor — Autonomous Deployment Agent
+System that deploys real-world repositories with minimal friction.
+
+- Scans GitHub repo  
+- Generates deployment plan  
+- Detects required environment variables  
+- Guides user → then deploys  
+
+---
+
+## 🏗️ What I Care About
+
+- Backend systems at scale  
+- Developer tools & infrastructure  
+- AI + real-world workflows (not just demos)  
+- Building systems that are **transparent, not black boxes**  
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Ruby on Rails, Python, FastAPI  
+**Infra:** Docker, AWS, GCP, CI/CD  
+**Databases:** PostgreSQL, Redis  
+**AI:** LLM APIs, prompt orchestration, agent workflows  
+
+---
+
+## 📈 Experience Snapshot
+
+- Built & scaled e-commerce platform (50K+ users)  
+- Reduced load time by 40% via DB + search optimization  
+- Automated workflows using APIs + AI (60% manual reduction)  
+
+---
+
+## 🌐 Links
+
+- Portfolio: https://nehac.netlify.app  
+- LinkedIn: https://linkedin.com/in/nehavchaudhari  
+
+---
+
+## 🤝 Let's Connect
+
+I’m actively looking for backend / AI roles where I can work on:
+
+→ Developer tools  
+→ AI systems  
+→ Scalable backend infrastructure  
+
+If you're building in this space, I’d love to connect.
