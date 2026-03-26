@@ -16,37 +16,6 @@ I’m currently focused on **Autonomous Development Systems** — software that 
 
 All through coordinated AI agents.
 
----
-
-## 🧠 Core Projects
-
-### ⚙️ Forge — Autonomous Development System
-Multi-agent system that turns ideas into working applications.
-
-- Project Manager agent → breaks down tasks  
-- Backend / Frontend / API agents → build components  
-- Designed for transparency + structured execution  
-
----
-
-### 🔍 CodeSentry — AI Code Review
-LLM-powered system for automated code analysis.
-
-- OWASP-aligned security checks  
-- Multi-file repo analysis  
-- Built with FastAPI + LLM pipelines  
-
----
-
-### 🚀 Anchor — Autonomous Deployment Agent
-System that deploys real-world repositories with minimal friction.
-
-- Scans GitHub repo  
-- Generates deployment plan  
-- Detects required environment variables  
-- Guides user → then deploys  
-
----
 
 ## 🏗️ What I Care About
 
