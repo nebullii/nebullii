@@ -1,61 +1,24 @@
-# Hi, I'm Neha 👋
+Building **Mitig8it** — a GitHub-native AI security platform that detects exploitable vulnerabilities in pull requests before merge.
 
-Backend Engineer building **autonomous AI systems for software development**
+I’m a software engineer with 5+ years of experience building scalable backend systems and APIs serving 50K+ users. My work focuses on designing reliable architectures, improving performance, and integrating AI into real-world workflows.
 
----
+At Thingbits, I improved system performance by **40%** through database and search optimization, and built automation pipelines that reduced manual operational effort by **60%**.
 
-## 🚀 What I'm Building
+Currently, I’m focused on building **autonomous AI systems for software development** — systems that can design, generate, review, and deploy code through coordinated agents.
 
-I’m currently focused on **Autonomous Development Systems** — software that can:
+### Areas of Interest
+- AI agent systems & infrastructure  
+- Developer tools & security  
+- Scalable backend systems  
 
-→ Take an idea  
-→ Design the system  
-→ Generate code  
-→ Review quality  
-→ Deploy to production  
-
-All through coordinated AI agents.
-
-
-## 🏗️ What I Care About
-
-- Backend systems at scale  
-- Developer tools & infrastructure  
-- AI + real-world workflows (not just demos)  
-- Building systems that are **transparent, not black boxes**  
-
----
-
-## 🛠️ Tech Stack
-
+### Tech Stack
 **Backend:** Ruby on Rails, Python, FastAPI  
 **Infra:** Docker, AWS, GCP, CI/CD  
 **Databases:** PostgreSQL, Redis  
 **AI:** LLM APIs, prompt orchestration, agent workflows  
 
----
-
-## 📈 Experience Snapshot
-
-- Built & scaled e-commerce platform (50K+ users)  
-- Reduced load time by 40% via DB + search optimization  
-- Automated workflows using APIs + AI (60% manual reduction)  
-
----
-
-## 🌐 Links
-
+### Links
 - Portfolio: https://nehac.netlify.app  
-- LinkedIn: https://linkedin.com/in/nehavchaudhari  
+- Mitig8it: https://mitig8it.com  
 
----
-
-## 🤝 Let's Connect
-
-I’m actively looking for backend / AI roles where I can work on:
-
-→ Developer tools  
-→ AI systems  
-→ Scalable backend infrastructure  
-
-If you're building in this space, I’d love to connect.
+If you're building developer tools, AI systems, or backend platforms — I’d love to connect.
