@@ -18,7 +18,7 @@ Currently, I’m focused on building **autonomous AI systems for software develo
 **AI:** LLM APIs, prompt orchestration, agent workflows  
 
 ### Links
-- Portfolio: https://nehac.netlify.app  
+- Portfolio: https://neha.code
 - Mitig8it: https://mitig8it.com  
 
 If you're building developer tools, AI systems, or backend platforms — I’d love to connect.
