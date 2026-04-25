@@ -1,8 +1,6 @@
 Building **Mitig8it** — a GitHub-native AI security platform that detects exploitable vulnerabilities in pull requests before merge.
 
-I’m a software engineer with 5+ years of experience building scalable backend systems and APIs serving 50K+ users. My work focuses on designing reliable architectures, improving performance, and integrating AI into real-world workflows.
-
-At Thingbits, I improved system performance by **40%** through database and search optimization, and built automation pipelines that reduced manual operational effort by **60%**.
+I’m a software engineer with 5+ years of experience building scalable backend systems and APIs, automating workflows with AI and optimizing databases. My work focuses on designing reliable architectures, improving performance, and integrating AI into real-world workflows.
 
 Currently, I’m focused on building **autonomous AI systems for software development** — systems that can design, generate, review, and deploy code through coordinated agents.
 
