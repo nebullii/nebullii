@@ -1,4 +1,4 @@
-Building **Mitig8it** — a GitHub-native AI security platform that detects exploitable vulnerabilities in pull requests before merge.
+Building **Mitig8it** — a GitHub-native AI security platform using 3 tier deterministic approach that detects exploitable vulnerabilities in pull requests before merge.
 
 I’m a software engineer with 5+ years of experience building scalable backend systems and APIs, automating workflows with AI and optimizing databases. My work focuses on designing reliable architectures, improving performance, and integrating AI into real-world workflows.
 
