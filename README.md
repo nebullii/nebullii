@@ -15,8 +15,4 @@ Currently, I’m focused on building **autonomous AI systems for software develo
 **Databases:** PostgreSQL, Redis  
 **AI:** LLM APIs, prompt orchestration, agent workflows  
 
-### Links
-- Portfolio: https://neha.codes
-- Mitig8it: https://mitig8it.com  
-
 If you're building developer tools, AI systems, or backend platforms — I’d love to connect.
