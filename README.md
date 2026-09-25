@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+Building+Mitig8it" alt="🛡️ Building Mitig8it" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Mitig8it" alt="Building Mitig8it" />
 
 <sub><i>A GitHub-native security platform that reviews pull requests, verifies a fix in a sandbox, and posts it as a suggestion for a human to apply.</i></sub>
 
