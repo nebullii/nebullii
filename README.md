@@ -2,21 +2,28 @@
 
 ### 🛡️ Building **Mitig8it**
 
-*A GitHub-native AI security platform using 3 tier deterministic approach that detects exploitable vulnerabilities in pull requests before merge.*
+*A GitHub-native security platform that reviews pull requests, verifies a fix in a sandbox, and posts it as a suggestion for a human to apply.*
 
 </div>
 
 ---
 
-I’m a software engineer with **5+ years** of experience building scalable backend systems and APIs, automating workflows with AI and optimizing databases. My work focuses on designing reliable architectures, improving performance, and integrating AI into real-world workflows.
+I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: shipping LLM systems that run against real traffic, and building the evaluation and guardrails that make them safe to ship.
 
-> [!NOTE]
-> Currently, I’m focused on building **autonomous AI systems for software development** — systems that can design, generate, review, and deploy code through coordinated agents.
+Right now I’m focused on evaluation for agent systems, measuring whether a tool-calling agent is actually safe to release rather than assuming it is.
 
 ### 🔭 Areas of Interest
 
-| 🤖 AI agent systems & infrastructure | 🧰 Developer tools & security | ⚙️ Scalable backend systems |
+| 🤖 Agent systems & evaluation | 🧰 Developer tools & security | ⚙️ Production backend systems |
 | :---: | :---: | :---: |
+
+### 📊 How I work
+
+Tiered before expensive: deterministic rules run first, static analysis next, and an LLM only where the cheaper tiers are ambiguous.
+
+Models picked on evidence, not preference: a **42-sample labelled benchmark** scoring precision, recall, latency and cost per review.
+
+Model-written changes run in a locked-down sandbox, hash-checked before and after the write.
 
 ### 🛠️ Tech Stack
 
@@ -24,13 +31,13 @@ I’m a software engineer with **5+ years** of experience building scalable back
 | --- | --- |
 | **Backend** | ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) |
-| **AI** | ![LLM APIs](https://img.shields.io/badge/LLM_APIs-6E40C9?style=flat-square) ![prompt orchestration](https://img.shields.io/badge/prompt_orchestration-6E40C9?style=flat-square) ![agent workflows](https://img.shields.io/badge/agent_workflows-6E40C9?style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square) |
+| **AI** | ![LLM APIs](https://img.shields.io/badge/LLM_APIs-6E40C9?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square) ![tool calling](https://img.shields.io/badge/tool_calling-6E40C9?style=flat-square) ![evals](https://img.shields.io/badge/evals-6E40C9?style=flat-square) |
 
 ---
 
 <div align="center">
 
-**If you're building developer tools, AI systems, or backend platforms — I’d love to connect.**
+**If you're building developer tools, agent systems, or backend platforms, I’d like to hear about it.**
 
 </div>
