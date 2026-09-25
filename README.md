@@ -66,13 +66,13 @@ Model-written changes run in a locked-down sandbox, hash-checked before and afte
 <td align="center" width="25%"><b>Backend</b><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="36" alt="Ruby on Rails" title="Ruby on Rails" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" title="FastAPI" /></td>
 <td align="center" width="25%"><b>Infra</b><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="36" alt="AWS" title="AWS" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP" title="GCP" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="CI/CD" title="CI/CD" /></td>
 <td align="center" width="25%"><b>Databases</b><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" title="Redis" /></td>
-<td align="center" width="25%"><b>AI</b><br /><br /><sub>LLM APIs<br />RAG<br />tool calling<br />evals</sub></td>
+<td align="center" width="25%"><b>AI</b><br /><br /><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" /><img src="https://api.iconify.design/simple-icons/openai.svg?color=%23000000" height="36" alt="ChatGPT" title="ChatGPT" /></picture> &nbsp; <img src="https://cdn.simpleicons.org/claude" height="36" alt="Claude" title="Claude" /> &nbsp; <img src="https://cdn.simpleicons.org/langgraph" height="36" alt="LangGraph" title="LangGraph" /></td>
 </tr>
 <tr>
 <td align="center"><sub>Ruby on Rails · Python · FastAPI</sub></td>
 <td align="center"><sub>Docker · AWS · GCP · CI/CD</sub></td>
 <td align="center"><sub>PostgreSQL · Redis · pgvector</sub></td>
-<td></td>
+<td align="center"><sub>LLM APIs · RAG · tool calling · evals</sub></td>
 </tr>
 </table>
 
