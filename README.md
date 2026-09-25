@@ -1,45 +1,57 @@
 <div align="center">
 
-<a href="https://mitig8it.com">
-  <img src="https://raw.githubusercontent.com/aicodesentry/mitig8it/main/frontend/public/logo-linkedin.svg" width="200" alt="Mitig8it" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Mitig8it" alt="Building Mitig8it" />
 
-*Security findings that come with a verified fix, posted as a one-click suggestion in the pull request. Nothing merges without you.*
+<sub>A GitHub-native AI security platform using 3 tier deterministic approach that detects exploitable vulnerabilities in pull requests before merge.</sub>
 
 </div>
 
----
+<br />
 
-I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: shipping LLM systems that run against real traffic, and building the evaluation and guardrails that make them safe to ship.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Right now I’m focused on evaluation for agent systems, measuring whether a tool-calling agent is actually safe to release rather than assuming it is.
+#### 👩‍💻 About
 
-### 🔭 Areas of Interest
+I’m a software engineer with **5+ years** of experience building scalable backend systems and APIs, automating workflows with AI and optimizing databases. My work focuses on designing reliable architectures, improving performance, and integrating AI into real-world workflows.
 
-| 🤖 Agent systems & evaluation | 🧰 Developer tools & security | ⚙️ Production backend systems |
-| :---: | :---: | :---: |
+</td>
+<td width="50%" valign="top">
 
-### 📊 How I work
+#### 🚀 Currently
 
-Tiered before expensive: deterministic rules run first, static analysis next, and an LLM only where the cheaper tiers are ambiguous.
+Currently, I’m focused on building **autonomous AI systems for software development** — systems that can design, generate, review, and deploy code through coordinated agents.
 
-Models picked on evidence, not preference: a **42-sample labelled benchmark** scoring precision, recall, latency and cost per review.
+</td>
+</tr>
+</table>
 
-Model-written changes run in a locked-down sandbox, hash-checked before and after the write.
+#### 🔭 Areas of Interest
 
-### 🛠️ Tech Stack
+`AI agent systems & infrastructure` &nbsp; `Developer tools & security` &nbsp; `Scalable backend systems`
 
-| | |
-| --- | --- |
-| **Backend** | ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square) |
-| **AI** | ![LLM APIs](https://img.shields.io/badge/LLM_APIs-6E40C9?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square) ![tool calling](https://img.shields.io/badge/tool_calling-6E40C9?style=flat-square) ![evals](https://img.shields.io/badge/evals-6E40C9?style=flat-square) |
+#### 🛠️ Tech Stack
 
----
+<table>
+<tr>
+<td align="center" width="25%"><b>Backend</b><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="36" alt="Ruby on Rails" title="Ruby on Rails" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" title="FastAPI" /></td>
+<td align="center" width="25%"><b>Infra</b><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="36" alt="AWS" title="AWS" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP" title="GCP" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="CI/CD" title="CI/CD" /></td>
+<td align="center" width="25%"><b>Databases</b><br /><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" title="Redis" /></td>
+<td align="center" width="25%"><b>AI</b><br /><br /><sub>LLM APIs<br />prompt orchestration<br />agent workflows</sub></td>
+</tr>
+<tr>
+<td align="center"><sub>Ruby on Rails · Python · FastAPI</sub></td>
+<td align="center"><sub>Docker · AWS · GCP · CI/CD</sub></td>
+<td align="center"><sub>PostgreSQL · Redis</sub></td>
+<td></td>
+</tr>
+</table>
 
 <div align="center">
 
-**If you're building developer tools, agent systems, or backend platforms, I’d like to hear about it.**
+<br />
+
+**If you're building developer tools, AI systems, or backend platforms — I’d love to connect.**
 
 </div>
