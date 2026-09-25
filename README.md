@@ -1,8 +1,10 @@
 <div align="center">
 
-### 🛡️ Building **Mitig8it**
+<a href="https://mitig8it.com">
+  <img src="https://raw.githubusercontent.com/aicodesentry/mitig8it/main/frontend/public/logo-linkedin.svg" width="200" alt="Mitig8it" />
+</a>
 
-*A GitHub-native security platform that reviews pull requests, verifies a fix in a sandbox, and posts it as a suggestion for a human to apply.*
+*Security findings that come with a verified fix, posted as a one-click suggestion in the pull request. Nothing merges without you.*
 
 </div>
 
