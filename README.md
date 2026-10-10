@@ -14,7 +14,7 @@
 
 #### 👩‍💻 About
 
-I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: one LLM support agent shipped to a real customer base, and two tools since then for measuring agent systems instead of assuming they work.
+I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: one LLM support agent shipped to a real customer base and evaluated in production, and Mitig8it since then, where every rule earns its place on measured precision.
 
 </td>
 <td width="50%" valign="top">
@@ -32,8 +32,8 @@ Right now I’m building evaluation harnesses for tool-calling agents: separatin
 | | |
 |---|---|
 | **60%** | less manual customer support after an autonomous LLM agent with five tools, strict JSON routing and rule-based escalation went live. |
+| **5 metric families** | used to evaluate that agent in production: outcome, trajectory, quality, operational and safety, from resolution and reopen rates to grounding rate, tool failure rate and token cost. |
 | **0.67 to 0.97** | precision of posted findings after Mitig8it's per-rule gate, over 172 findings adjudicated by hand across 23 vulnerable repositories. 51 of 63 repairs proved by a generated test. |
-| **~48K to under 3K** | prompt tokens for one agent session after Relay replaced pasted context with bounded state and artifact refs. Measured on my own usage. |
 
 #### 🔭 Areas of Interest
 
@@ -77,7 +77,7 @@ Model-written changes run in a locked-down sandbox, hash-checked before and afte
 
 Agent harnesses: tool calling, intent routing, strict JSON outputs, rule-based escalation.<br />
 Evaluation gates: hand-labelled corpora, per-rule precision thresholds, LLM-as-judge.<br />
-Context and token budgets: state refs, bounded previews, patch-based state.<br />
+Production agent metrics: outcome, trajectory, quality, operational, safety.<br />
 Budgeted LLM workers: queue-leased runs, concurrency caps, rate limits, per-run token and USD ceilings, fail-open triage.<br />
 LangChain, LangGraph, LangSmith. A2A protocol. OpenAI, Anthropic, Gemini, Ollama.
 
@@ -103,6 +103,6 @@ Python, FastAPI, gRPC, Ruby on Rails, Docker, GCP Cloud Run, AWS, GitHub Actions
 
 <br />
 
-**Open to AI Engineer roles where agents, their evaluation, and their token and context cost are the job. Python and Ruby on Rails underneath. New York, remote or relocation.**
+**Open to AI Engineer roles where agents, their evaluation, and their token cost are the job. Python and Ruby on Rails underneath. New York, remote or relocation.**
 
 </div>
