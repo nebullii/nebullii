@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Engineer.+LLM+agents+and+their+evaluation." alt="AI Engineer. LLM agents and their evaluation." />
 
-<sub><i>6 years of Python and Ruby on Rails. Production LLM agents, agent evaluation, token and cost control. Open to Gen AI and AI Engineer roles, New York or remote.</i></sub>
+<sub><i>AI engineer. Production LLM agents, agent evaluation, token and cost control. Python and Ruby on Rails, 6 yrs.</i></sub>
 
 </div>
 
