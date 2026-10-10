@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Mitig8it" alt="Building Mitig8it" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Engineer.+LLM+agents+and+their+evaluation." alt="AI Engineer. LLM agents and their evaluation." />
 
-<sub><i>A GitHub-native security platform that reviews pull requests, verifies a fix in a sandbox, and posts it as a suggestion for a human to apply.</i></sub>
+<sub><i>6 years of Python and Ruby on Rails. Production LLM agents, agent evaluation, token and cost control. Open to Gen AI and AI Engineer roles, New York or remote.</i></sub>
 
 </div>
 
@@ -14,14 +14,14 @@
 
 #### 👩‍💻 About
 
-I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: one LLM support agent shipped to a real customer base and evaluated in production, and Mitig8it since then, where every rule earns its place on measured precision.
+I’m a software engineer with **6 years** of production software in Python and Ruby on Rails. In applied AI: one LLM support agent shipped to a real customer base and evaluated in production, then Mitig8it, a pull request security reviewer where every rule earns its place on measured precision.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🚀 Right now
 
-Right now I’m building evaluation harnesses for tool-calling agents: separating filter misses from model misses, and measuring where tool-selection accuracy falls off as the catalogue grows.
+Right now I’m designing an evaluation harness for tool-calling agents: separating filter misses from model misses, and measuring where tool-selection accuracy falls off as the catalogue grows. The gold set is built by hand.
 
 </td>
 </tr>
