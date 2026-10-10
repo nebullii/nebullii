@@ -78,6 +78,7 @@ Model-written changes run in a locked-down sandbox, hash-checked before and afte
 Agent harnesses: tool calling, intent routing, strict JSON outputs, rule-based escalation.<br />
 Evaluation gates: hand-labelled corpora, per-rule precision thresholds, LLM-as-judge.<br />
 Context and token budgets: state refs, bounded previews, patch-based state.<br />
+Budgeted LLM workers: queue-leased runs, concurrency caps, rate limits, per-run token and USD ceilings, fail-open triage.<br />
 LangChain, LangGraph, LangSmith. A2A protocol. OpenAI, Anthropic, Gemini, Ollama.
 
 </td>
