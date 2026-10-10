@@ -14,7 +14,7 @@
 
 #### 👩‍💻 About
 
-I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: shipping LLM systems that run against real traffic, and building the evaluation and guardrails that make them safe to ship.
+I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: one LLM support agent shipped to a real customer base, and two tools since then for measuring agent systems instead of assuming they work.
 
 </td>
 <td width="50%" valign="top">
