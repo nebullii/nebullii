@@ -16,7 +16,7 @@
 
 I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: shipping LLM systems that run against real traffic, and building the evaluation and guardrails that make them safe to ship.
 
-Three numbers: an autonomous LLM support agent cut manual customer support **60%**. A **42-case labelled benchmark** gates a three-tier PR pipeline on precision, recall, latency and cost. Relay took one agent session's prompt from **~48K tokens to under 3K**, measured on my own usage.
+Three numbers: an autonomous LLM support agent cut manual customer support **60%**. Mitig8it's precision gate took posted findings from **0.67 to 0.97** across 172 hand-adjudicated findings in 23 vulnerable repositories, and 51 of 63 repairs in its corpus are proved by a generated test. Relay took one agent session's prompt from **~48K tokens to under 3K**, measured on my own usage.
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +48,7 @@ Tiered before expensive: deterministic rules run first, static analysis next, an
 
 **02**
 
-Models picked on evidence, not preference: a **42-sample labelled benchmark** scoring precision, recall, latency and cost per review.
+Rules and models kept on evidence, not preference: every tier 2 rule posts only while its measured precision stays above 0.8, over **172 findings adjudicated by hand**.
 
 </td>
 <td width="33%" valign="top">
