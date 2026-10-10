@@ -14,7 +14,7 @@
 
 #### 👩‍💻 About
 
-I’m a software engineer with **6 years** of production software in Python and Ruby on Rails. In applied AI: one LLM support agent shipped to a real customer base and evaluated in production, then Mitig8it, a pull request security reviewer where every rule earns its place on measured precision.
+I’m a software engineer with **6 years** of production software in Python and Ruby on Rails. In applied AI: one LLM support agent shipped to a real customer base and evaluated in production, then Mitig8it, where every rule earns its place on measured precision.
 
 </td>
 <td width="50%" valign="top">
