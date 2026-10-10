@@ -16,8 +16,6 @@
 
 I’m a software engineer with **6 years** of experience building production backend systems and APIs, integrating third-party services, and making databases fast. More recently my work has been applied AI: shipping LLM systems that run against real traffic, and building the evaluation and guardrails that make them safe to ship.
 
-Three numbers: an autonomous LLM support agent cut manual customer support **60%**. Mitig8it's precision gate took posted findings from **0.67 to 0.97** across 172 hand-adjudicated findings in 23 vulnerable repositories, and 51 of 63 repairs in its corpus are proved by a generated test. Relay took one agent session's prompt from **~48K tokens to under 3K**, measured on my own usage.
-
 </td>
 <td width="50%" valign="top">
 
@@ -28,6 +26,14 @@ Right now I’m building evaluation harnesses for tool-calling agents: separatin
 </td>
 </tr>
 </table>
+
+#### 🔢 Three numbers
+
+| | |
+|---|---|
+| **60%** | less manual customer support after an autonomous LLM agent with five tools, strict JSON routing and rule-based escalation went live. |
+| **0.67 to 0.97** | precision of posted findings after Mitig8it's per-rule gate, over 172 findings adjudicated by hand across 23 vulnerable repositories. 51 of 63 repairs proved by a generated test. |
+| **~48K to under 3K** | prompt tokens for one agent session after Relay replaced pasted context with bounded state and artifact refs. Measured on my own usage. |
 
 #### 🔭 Areas of Interest
 
