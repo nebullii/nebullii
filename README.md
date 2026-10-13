@@ -103,6 +103,6 @@ Python, FastAPI, gRPC, Ruby on Rails, Docker, GCP Cloud Run, AWS, GitHub Actions
 
 <br />
 
-**Open to AI Engineer roles where agents, their evaluation, and their token cost are the job. Python and Ruby on Rails underneath. New York, remote or relocation.**
+**Open to AI Engineer roles where agents, their evaluation, and their token cost are the job. New York, remote or relocation.**
 
 </div>
