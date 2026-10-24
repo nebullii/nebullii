@@ -35,7 +35,7 @@ Right now I’m designing an evaluation harness for tool-calling agents: separat
 |---|---|
 | **60%** | less manual customer support after an autonomous LLM agent with five tools, strict JSON routing and rule-based escalation went live. |
 | **5 metric families** | used to evaluate that agent in production: outcome, trajectory, quality, operational and safety, from resolution and reopen rates to grounding rate, tool failure rate and token cost. |
-| **0.67 to 0.97** | precision of posted findings after Mitig8it's per-rule gate, over 172 adjudicated findings across 23 vulnerable repositories. 51 of 63 fixes proven by fail-then-pass tests. |
+| **0.67 to 0.97** | precision of posted findings after Mitig8it's per-rule gate, over 172 adjudicated findings across 23 vulnerable repositories. 51 of 63 fixes verified, 46 of them by fail-then-pass tests. |
 
 #### 🤝 Open source
 
