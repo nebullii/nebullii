@@ -39,7 +39,7 @@ Right now I’m designing an evaluation harness for tool-calling agents: separat
 
 #### 🤝 Open source
 
-ZeroClaw: 5 merged PRs. cmux: 5 merged PRs and 4 open. vLLM: 1 open PR.
+ZeroClaw: 5 merged PRs. cmux: 23 merged PRs and 12 open. vLLM: 1 open PR.
 
 #### 🔭 Areas of Interest
 
