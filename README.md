@@ -16,12 +16,14 @@
 
 I’m a software engineer with **6 years** of production software in Python and Ruby on Rails. In applied AI: one LLM support agent shipped to a real customer base and evaluated in production, then Mitig8it, where every rule earns its place on measured precision.
 
+Based in New York City. Before that, 6 years at Thingbits Electronics in Mumbai building a full stack Rails/Spree commerce platform, its integrations (Zoho Books, Bluedart, Razorpay, PayPal) and a production LLM support agent that cut manual customer support by 60%. MS Computer Science, Clark University (Dec 2025). Second Place, Clark University Technology Product Innovation Challenge, Fall 2025 ($1,250) for Code Sentry.
+
 </td>
 <td width="50%" valign="top">
 
 #### 🚀 Right now
 
-Right now I’m designing an evaluation harness for tool-calling agents: separating filter misses from model misses, and measuring where tool-selection accuracy falls off as the catalogue grows. The gold set is built by hand.
+Right now I’m designing an evaluation harness for tool-calling agents: separating filter misses from model misses, and measuring where tool-selection accuracy falls off as the catalogue grows. The gold set is labelled and versioned.
 
 </td>
 </tr>
@@ -33,7 +35,11 @@ Right now I’m designing an evaluation harness for tool-calling agents: separat
 |---|---|
 | **60%** | less manual customer support after an autonomous LLM agent with five tools, strict JSON routing and rule-based escalation went live. |
 | **5 metric families** | used to evaluate that agent in production: outcome, trajectory, quality, operational and safety, from resolution and reopen rates to grounding rate, tool failure rate and token cost. |
-| **0.67 to 0.97** | precision of posted findings after Mitig8it's per-rule gate, over 172 findings adjudicated by hand across 23 vulnerable repositories. 51 of 63 repairs proved by a generated test. |
+| **0.67 to 0.97** | precision of posted findings after Mitig8it's per-rule gate, over 172 adjudicated findings across 23 vulnerable repositories. 51 of 63 fixes proven by fail-then-pass tests. |
+
+#### 🤝 Open source
+
+ZeroClaw: 5 merged PRs. cmux: 5 merged PRs and 4 open. vLLM: 1 open PR.
 
 #### 🔭 Areas of Interest
 
@@ -54,7 +60,7 @@ Tiered before expensive: deterministic rules run first, static analysis next, an
 
 **02**
 
-Rules and models kept on evidence, not preference: every tier 2 rule posts only while its measured precision stays above 0.8, over **172 findings adjudicated by hand**.
+Rules and models kept on evidence, not preference: every tier 2 rule posts only while its measured precision stays above 0.8, over **172 adjudicated findings**.
 
 </td>
 <td width="33%" valign="top">
@@ -76,7 +82,7 @@ Model-written changes run in a locked-down sandbox, hash-checked before and afte
 **Gen AI**
 
 Agent harnesses: tool calling, intent routing, strict JSON outputs, rule-based escalation.<br />
-Evaluation gates: hand-labelled corpora, per-rule precision thresholds, LLM-as-judge.<br />
+Evaluation gates: labelled corpora, per-rule precision thresholds, LLM-as-judge.<br />
 Production agent metrics: outcome, trajectory, quality, operational, safety.<br />
 Budgeted LLM workers: queue-leased runs, concurrency caps, rate limits, per-run token and USD ceilings, fail-open triage.<br />
 LangChain, LangGraph, LangSmith. A2A protocol. OpenAI, Anthropic, Gemini, Ollama.
