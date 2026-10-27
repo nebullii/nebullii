@@ -16,7 +16,7 @@
 
 I’m a software engineer with **6 years** of production software in Python and Ruby on Rails. In applied AI: one LLM support agent shipped to a real customer base and evaluated in production, then Mitig8it, where every rule earns its place on measured precision.
 
-Based in New York City. Before that, 6 years at Thingbits Electronics in Mumbai building a full stack Rails/Spree commerce platform, its integrations (Zoho Books, Bluedart, Razorpay, PayPal) and a production LLM support agent that cut manual customer support by 60%. MS Computer Science, Clark University (Dec 2025). Second Place, Clark University Technology Product Innovation Challenge, Fall 2025 ($1,250) for Code Sentry.
+Based in New York City. Those 6 years were at Thingbits Electronics in Mumbai building a full stack Rails/Spree commerce platform, its integrations (Zoho Books, Bluedart, Razorpay, PayPal) and a production LLM support agent that cut manual customer support by 60%. MS Computer Science, Clark University (Dec 2025). Second Place, Clark University Technology Product Innovation Challenge, Fall 2025 ($1,250) for Code Sentry.
 
 </td>
 <td width="50%" valign="top">
