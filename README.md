@@ -16,7 +16,7 @@
 
   I'm a GenAI engineer in New York City. I build generative AI systems for banking: RAG over financial and compliance documents, multi-step agents, guardrails that keep answers on approved sources, and evaluation.
 
-  Before that I shipped an LLM support agent to a real customer base and evaluated it in production. It cut manual customer support by 60%. I also built Mitig8it, where every rule earns its place on measured precision. MS Computer Science, Clark University. Second Place, Clark University Technology Product Innovation Challenge, Fall 2025 ($1,250) for Code Sentry.
+  Before that I shipped an LLM support agent to a real customer base and evaluated it in production. It cut manual customer support by 60%. I also built Mitig8it, where every rule earns its place on measured precision. MS Computer Science, Clark University. Second Place, Clark University Technology Product Innovation Challenge ($1,250) for Code Sentry.
 
   </td>
   <td width="50%" valign="top">
