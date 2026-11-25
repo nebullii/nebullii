@@ -34,9 +34,6 @@
   | **5 metric families** | used to evaluate that agent in production: outcome, trajectory, quality, operational and safety, from resolution and reopen rates to grounding rate, tool failure rate and token cost. |
   | **0.67 to 0.97** | precision of posted findings after Mitig8it's per-rule gate, over 172 adjudicated findings across 23 vulnerable repositories. 51 of 63 fixes verified, 46 of them by fail-then-pass tests. |
 
-  #### 🤝 Open source
-
-  ZeroClaw: 5 merged PRs. cmux: 23 merged PRs and 12 open. vLLM: 1 open PR.
 
   #### 🔭 Areas of Interest
 
