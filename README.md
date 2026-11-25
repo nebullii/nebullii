@@ -14,7 +14,7 @@
 
   #### 👩‍💻 About
 
-  I'm a GenAI engineer in New York City. I build generative AI systems for banking: RAG over financial and compliance documents, multi-step agents, guardrails that keep answers on approved sources, and evaluation.
+  I'm a GenAI engineer. I build generative AI systems for banking: RAG over financial and compliance documents, multi-step agents, guardrails that keep answers on approved sources, and evaluation.
   </td>
   <td width="50%" valign="top">
 
